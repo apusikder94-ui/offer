@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 };
 
 const OFFER_URL =
-  "https://singingfiles.com/show.php?l=0&u=2548173&id=75164";
+  "https://quartzfiles.com/1908300";
 
 const steps = [
   {
